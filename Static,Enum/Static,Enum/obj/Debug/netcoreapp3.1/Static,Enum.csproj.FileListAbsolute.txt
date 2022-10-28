@@ -1,0 +1,17 @@
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\bin\Debug\netcoreapp3.1\Static,Enum.exe
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\bin\Debug\netcoreapp3.1\Static,Enum.deps.json
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\bin\Debug\netcoreapp3.1\Static,Enum.runtimeconfig.json
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\bin\Debug\netcoreapp3.1\Static,Enum.runtimeconfig.dev.json
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\bin\Debug\netcoreapp3.1\Static,Enum.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\bin\Debug\netcoreapp3.1\Static,Enum.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.csproj.AssemblyReference.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.AssemblyInfoInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.AssemblyInfo.cs
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.csproj.CoreCompileInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.csproj.CopyComplete
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Static,Enum\Static,Enum\obj\Debug\netcoreapp3.1\Static,Enum.genruntimeconfig.cache

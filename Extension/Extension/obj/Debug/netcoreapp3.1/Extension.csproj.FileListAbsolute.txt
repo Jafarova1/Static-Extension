@@ -1,0 +1,14 @@
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.exe
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.deps.json
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.runtimeconfig.json
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.runtimeconfig.dev.json
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.AssemblyReference.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfoInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfo.cs
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.CoreCompileInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Static,Enum\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.genruntimeconfig.cache
